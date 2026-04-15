@@ -6,7 +6,7 @@
 |-----|------------------|-------|
 | ___ | Ingestion / Raw Owner | ___ |
 | ___ | Cleaning & Quality Owner | ___ |
-| ___ | Embed & Idempotency Owner | ___ |
+| Phạm Anh Quân| Embed & Idempotency Owner | hquan123cp04@gmail.com |
 | ___ | Monitoring / Docs Owner | ___ |
 
 **Ngày nộp:** ___________  
