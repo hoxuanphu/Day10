@@ -1,6 +1,6 @@
 # Kiến trúc pipeline — Lab Day 10
 
-**Nhóm:** (điền tên nhóm)  
+**Nhóm:** AI-Pipeline-Team  
 **Cập nhật:** 2026-04-15
 
 ---
