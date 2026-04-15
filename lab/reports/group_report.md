@@ -1,16 +1,15 @@
 # Báo Cáo Nhóm — Lab Day 10: Data Pipeline & Data Observability
 
-**Tên nhóm:** ___________  
-**Thành viên:**
+**Tên nhóm:** Nhóm 16A
 | Tên | Vai trò (Day 10) | Email |
 |-----|------------------|-------|
-| ___ | Ingestion / Raw Owner | ___ |
-| ___ | Cleaning & Quality Owner | ___ |
+| Hồ Xuân Phú | Ingestion / Raw Owner | hoxuanphu.stmn@gmail.com |
+| Hồ Xuân Phú| Cleaning & Quality Owner | hoxuanphu.stmn@gmail.com |
 | Phạm Anh Quân| Embed & Idempotency Owner | hquan123cp04@gmail.com |
 | Đào Danh Đăng Phụng | Monitoring / Docs Owner | phung352100@gmail.com |
 
-**Ngày nộp:** ___________  
-**Repo:** ___________  
+**Ngày nộp:** 15/04/2026  
+**Repo:** (https://github.com/hoxuanphu/Day10) 
 **Độ dài khuyến nghị:** 600–1000 từ
 
 ---
