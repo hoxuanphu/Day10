@@ -7,7 +7,7 @@
 | ___ | Ingestion / Raw Owner | ___ |
 | ___ | Cleaning & Quality Owner | ___ |
 | Phạm Anh Quân| Embed & Idempotency Owner | hquan123cp04@gmail.com |
-| ___ | Monitoring / Docs Owner | ___ |
+| Đào Danh Đăng Phụng | Monitoring / Docs Owner | phung352100@gmail.com |
 
 **Ngày nộp:** ___________  
 **Repo:** ___________  
